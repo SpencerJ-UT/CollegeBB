@@ -1,3 +1,3 @@
 # CollegeBB
 
-Various projects I've worked on related to college baseball while at UT
+This project was completed using data from UT Baseball and was designed as a tool to assist with scouting reports.
